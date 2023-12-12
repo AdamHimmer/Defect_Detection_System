@@ -1,5 +1,5 @@
 # Defect_Detection_System
-Python-based defect detection system utilizing custom trained neural networks.
+Python-based defect detection system utilizing custom trained neural networks. Image manipulation and processing through neural network was broken into separate sub-programs due to running these on a Raspberry Pi machine, and having to work around limited processing power.
 
 Files are for inspecting an image of a product, determining the location of the product to inspect, and manipulation of the image to prepare it to be fed through a pre-trained neural network model for defect detection.
 
